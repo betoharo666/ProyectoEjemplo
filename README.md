@@ -7,6 +7,8 @@ Hola perros, y hola mundo!
 
 >Recordemos que para guardar cambios de manera local
 	tenemos que usar el comando >git commit -am "comentario"
+>
+>Agregué mas lineas desde github
 
 
 
